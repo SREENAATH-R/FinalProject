@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Career Compass{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #e9ecef; /* Light gray background */
+        }
+
+        .navbar {
+            background-color: #343a40; /* Darker background for navbar */
+        }
+
+        .navbar .navbar-brand,
+        .navbar .nav-link {
+            color: #007bff; /* White text in navbar */
+        }
+
+        .navbar .nav-link:hover {
+            color: #ffc107; /* Gold color on hover */
+        }
+
+        .alert {
+            border-radius: 5px; /* Rounded corners for alerts */
+        }
+
+        .alert-success {
+            background-color: #d4edda; /* Light green background for success */
+            border-color: #c3e6cb; /* Green border for success */
+        }
+
+        .alert-danger {
+            background-color: #f8d7da; /* Light red background for danger */
+            border-color: #f5c6cb; /* Red border for danger */
+        }
+
+        .alert-warning {
+            background-color: #fff3cd; /* Light yellow background for warning */
+            border-color: #ffeeba; /* Yellow border for warning */
+        }
+
+        h1 {
+            color: #343a40; /* Dark color for main headings */
+        }
+
+        h3 {
+            color: #007bff; /* Blue color for subheadings */
+        }
+
+        p {
+            color: #495057; /* Dark gray for paragraph text */
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">
+            <img src="{{ url_for('static', filename='img/robot.gif') }}" alt="Career Compass" style="width: 30px; height: auto; margin-right: 10px;">
+            Career Compass</a>
+        <div class="collapse navbar-collapse">
+            <ul class="navbar-nav ml-auto">
+                {% if session.get('username') %}
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        {{ session.get('username') }}
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Profile</a>
+                        <a class="dropdown-item" href="{{ url_for('logout') }}">Logout</a>
+                    </div>
+                </li>
+                {% else %}
+                    <li class="nav-item"><a class="nav-link" href="{{ url_for('login') }}">Login</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ url_for('register') }}">Register</a></li>
+                {% endif %}
+            </ul>
+        </div>
+    </nav>
+    {% if request.endpoint == 'home' and not session.get('username') %}
+    <div class="container mt-5">
+        <div class="text-center">
+            <h1>Welcome to Career Compass</h1>
+            <p>Your personalized guide to navigating your career journey.</p>
+        </div>
+        <div class="about-section mt-4 text-left">
+            <h3>About Career Compass</h3>
+            <p>Career Compass is designed to help you explore various career paths and make informed decisions tailored to your skills and interests. Our platform provides you with:</p>
+            <ul>
+                <li><strong>Personalized Job Recommendations:</strong> Based on your education, skills, and interests, we analyze the job market to provide tailored job suggestions that fit your profile.</li>
+                <li><strong>Certification Insights:</strong> Discover essential certifications that can boost your career prospects and help you stand out in a competitive job market.</li>
+                <li><strong>Industry Trends:</strong> Stay updated on the latest trends in various industries, helping you make informed decisions about your career path.</li>
+                <li><strong>Resume and Interview Tips:</strong> Access valuable resources to enhance your resume and prepare for interviews, ensuring you present your best self to potential employers.</li>
+                <li><strong>Networking Opportunities:</strong> Connect with industry professionals and other job seekers to expand your network and learn from their experiences.</li>
+            </ul>
+            </div>
+    
+        <div class="additional-content mt-5">
+            <h3>Getting Started with Career Compass</h3>
+            <p>To make the most out of Career Compass, follow these steps:</p>
+            <ol>
+                <li><strong>Create an Account:</strong> Sign up and fill out your profile with your educational background, skills, and career interests.</li>
+                <li><strong>Explore Job Recommendations:</strong> After completing your profile, browse through personalized job suggestions tailored to your qualifications.</li>
+                <li><strong>Engage with Our Chatbot:</strong> Use our AI-powered chatbot to ask questions, get career advice, and explore various career paths.</li>
+                <li><strong>Access Learning Resources:</strong> Explore recommended courses and certifications that can help you enhance your skill set and boost your employability.</li>
+            </ol>
+            
+
+            </div>
+    </div>
+    
+    {% endif %}
+    
+    <div class="container mt-4">
+        {% with messages = get_flashed_messages(with_categories=True) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category }} alert-dismissible fade show" role="alert">
+                        {{ message }}
+                        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+        {% block content %}
+        {% endblock %}
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        setTimeout(function() {
+            $('.alert').alert('close');
+        }, 3000);
+    </script>
+</body>
+</html>

@@ -1,0 +1,519 @@
+title,company,location,skills,degree,branch,year_of_passing
+Software Engineer,TCS,Bangalore,"['Java', 'Python', 'SQL']",B.Tech,CSE,2023
+Data Scientist,Zoho,Chennai,"['Python', 'R', 'SQL']",M.Tech,CS,2022
+Business Analyst,Cognizant,Coimbatore,"['Excel', 'Power BI', 'SQL']",BBA,Business,2021
+Web Developer,Tech Mahindra,Pune,"['HTML', 'CSS', 'JavaScript']",B.Tech,IT,2022
+Data Analyst,Zoho,Trichy,"['Python', 'SQL', 'Tableau']",B.Sc,Statistics,2021
+Cloud Solutions Architect,TCS,Hyderabad,"['AWS', 'Azure', 'GCP']",M.Tech,CS,2023
+Full Stack Developer,Tech Mahindra,Chennai,"['JavaScript', 'Node.js', 'React']",B.Tech,IT,2021
+Machine Learning Engineer,Zoho,Coimbatore,"['Python', 'TensorFlow', 'Keras']",M.Tech,AI,2023
+Software Developer,CTS,Mumbai,"['Java', 'Spring Boot', 'Hibernate']",B.Tech,CSE,2022
+Mobile App Developer,TCS,Bangalore,"['Swift', 'Kotlin', 'React Native']",B.Tech,IT,2021
+Product Manager,Zoho,Madurai,"['Agile', 'Scrum', 'Leadership']",MBA,Management,2022
+UI/UX Designer,Tech Mahindra,Chennai,"['Sketch', 'Figma', 'Adobe XD']",BFA,Design,2020
+Operations Manager,CTS,Coimbatore,"['Operations', 'Excel', 'Logistics']",MBA,Operations,2021
+Network Engineer,TCS,Chennai,"['Networking', 'CCNA', 'Cisco']",B.Tech,IT,2022
+Marketing Manager,Zoho,Bangalore,"['SEO', 'Google Ads', 'SEM']",MBA,Marketing,2021
+Data Scientist,Tech Mahindra,Pune,"['Python', 'R', 'Machine Learning']",M.Tech,CS,2023
+Java Developer,CTS,Coimbatore,"['Java', 'Spring Boot', 'Hibernate']",B.Tech,CSE,2021
+HR Manager,Zoho,Mysore,"['Recruitment', 'HR Management']",MBA,HR,2022
+Digital Marketing Specialist,Tech Mahindra,Hyderabad,"['SEO', 'Content Writing', 'Google Ads']",BBA,Marketing,2020
+Business Intelligence Developer,TCS,Chennai,"['SQL', 'Power BI', 'Excel']",M.Tech,IT,2022
+DevOps Engineer,Tech Mahindra,Pune,"['Docker', 'Kubernetes', 'AWS']",B.Tech,IT,2021
+Data Engineer,Zoho,Coimbatore,"['SQL', 'Hadoop', 'Spark']",M.Tech,CS,2023
+Cybersecurity Analyst,TCS,Mumbai,"['Cybersecurity', 'Firewall', 'Networking']",B.Tech,CSE,2022
+Software Tester,Zoho,Chennai,"['Selenium', 'Python', 'Automation']",B.Tech,CSE,2020
+AI Researcher,Tech Mahindra,Coimbatore,"['Python', 'AI', 'Deep Learning', 'TensorFlow']",PhD,AI,2023
+Product Designer,TCS,Hyderabad,"['Figma', 'Sketch', 'Photoshop']",BFA,Design,2020
+Cloud Engineer,Tech Mahindra,Chennai,"['AWS', 'Azure', 'Cloud Migration']",B.Tech,IT,2021
+Data Analyst,Zoho,Trichy,"['Python', 'SQL', 'Power BI']",B.Tech,Statistics,2022
+Blockchain Developer,Tech Mahindra,Coimbatore,"['Blockchain', 'Solidity', 'Ethereum']",M.Tech,CS,2023
+Sales Manager,TCS,Chennai,"['Sales', 'CRM', 'Business Development']",MBA,Sales,2022
+Business Consultant,Zoho,Mumbai,"['Strategy', 'Consulting', 'Business Analysis']",MBA,Consulting,2021
+Embedded Systems Engineer,Tech Mahindra,Chennai,"['Embedded C', 'IoT', 'ARM']",B.Tech,CS,2022
+Game Developer,Zoho,Coimbatore,"['C++', 'Unity', 'Game Design']",B.Tech,IT,2021
+Financial Analyst,Tech Mahindra,Pune,"['Financial Modeling', 'Excel', 'Data Analysis']",B.Com,Finance,2022
+Automation Engineer,Zoho,Chennai,"['Selenium', 'Python', 'Java']",B.Tech,CSE,2021
+Web Developer,TCS,Hyderabad,"['React', 'Node.js', 'JavaScript']",B.Tech,CSE,2022
+Systems Administrator,Tech Mahindra,Coimbatore,"['Linux', 'Windows', 'Networking']",B.Tech,IT,2021
+Business Development Manager,Zoho,Chennai,"['Sales', 'Business Development', 'CRM']",MBA,Sales,2021
+Data Architect,CTS,Coimbatore,"['SQL', 'Hadoop', 'Data Modeling']",M.Tech,CS,2023
+Content Writer,Zoho,Chennai,"['Content Writing', 'SEO', 'Editing']",B.A,English,2020
+Marketing Executive,Tech Mahindra,Hyderabad,"['SEO', 'Social Media', 'Content Writing']",BBA,Marketing,2022
+IT Support Specialist,TCS,Coimbatore,"['Networking', 'Troubleshooting', 'Windows']",B.Tech,IT,2021
+Software Engineer,Zoho,Chennai,"['Python', 'Flask', 'Django']",B.Tech,IT,2022
+DevOps Specialist,Tech Mahindra,Coimbatore,"['Kubernetes', 'Docker', 'AWS']",B.Tech,CSE,2021
+Cloud Consultant,Zoho,Chennai,"['AWS', 'Azure', 'GCP']",M.Tech,CS,2021
+JavaScript Developer,TCS,Chennai,"['JavaScript', 'React', 'Node.js']",B.Tech,CSE,2022
+Product Manager,Zoho,Coimbatore,"['Agile', 'Product Roadmap', 'Scrum']",MBA,Management,2022
+Business Intelligence Analyst,Tech Mahindra,Chennai,"['SQL', 'Power BI', 'Excel']",MBA,Business,2022
+Data Scientist,TCS,Coimbatore,"['Python', 'Machine Learning', 'R']",M.Tech,CS,2023
+Cybersecurity Engineer,Zoho,Chennai,"['Cybersecurity', 'Networking', 'Firewall']",B.Tech,CSE,2021
+Cloud Architect,Tech Mahindra,Chennai,"['AWS', 'Azure', 'GCP', 'Cloud Design']",M.Tech,CS,2023
+AI Developer,Zoho,Coimbatore,"['Python', 'TensorFlow', 'Deep Learning']",M.Tech,AI,2021
+SEO Specialist,Tech Mahindra,Chennai,"['SEO', 'Google Analytics', 'SEM']",B.Sc,Marketing,2020
+Operations Analyst,TCS,Coimbatore,"['Operations', 'Data Analysis', 'SQL']",BBA,Operations,2022
+IT Manager,Zoho,Chennai,"['IT Infrastructure', 'Project Management']",B.Tech,IT,2021
+Mobile Developer,Tech Mahindra,Coimbatore,"['React Native', 'Android', 'Java']",B.Tech,IT,2022
+Software Engineer,TechTigers,Chennai,"['Java', 'Python', 'SQL']",B.Tech,CSE,2023
+Data Scientist,DataPrime,Chennai,"['Python', 'R', 'SQL']",M.Tech,CS,2022
+Business Analyst,BizLab,Coimbatore,"['Excel', 'Power BI', 'SQL']",BBA,Business,2021
+Web Developer,WebSolutions,Chennai,"['HTML', 'CSS', 'JavaScript']",B.Tech,IT,2022
+Data Analyst,DataWiz,Chennai,"['Python', 'SQL', 'Tableau']",B.Sc,Statistics,2021
+Cloud Solutions Architect,CloudGen,Coimbatore,"['AWS', 'Azure', 'GCP']",M.Tech,CS,2023
+Full Stack Developer,TechnoWorks,Chennai,"['JavaScript', 'Node.js', 'React']",B.Tech,IT,2021
+Machine Learning Engineer,MLSystems,Coimbatore,"['Python', 'TensorFlow', 'Keras']",M.Tech,AI,2023
+Software Developer,CodeCraft,Chennai,"['Java', 'Spring Boot', 'Hibernate']",B.Tech,CSE,2022
+Mobile App Developer,MobileX,Chennai,"['Swift', 'Kotlin', 'React Native']",B.Tech,IT,2021
+Product Manager,ProductMax,Coimbatore,"['Agile', 'Scrum', 'Leadership']",MBA,Management,2022
+UI/UX Designer,DesignHub,Chennai,"['Sketch', 'Figma', 'Adobe XD']",BFA,Design,2020
+Operations Manager,OpsWorks,Coimbatore,"['Operations', 'Excel', 'Logistics']",MBA,Operations,2021
+Network Engineer,NetPro,Chennai,"['Networking', 'CCNA', 'Cisco']",B.Tech,IT,2022
+Marketing Manager,MarketTech,Coimbatore,"['SEO', 'Google Ads', 'SEM']",MBA,Marketing,2021
+Data Scientist,InnovateTech,Chennai,"['Python', 'R', 'Machine Learning']",M.Tech,CS,2023
+Java Developer,DevLab,Coimbatore,"['Java', 'Spring Boot', 'Hibernate']",B.Tech,CSE,2021
+HR Manager,PeopleTech,Chennai,"['Recruitment', 'HR Management']",MBA,HR,2022
+Digital Marketing Specialist,MarketerPro,Coimbatore,"['SEO', 'Content Writing', 'Google Ads']",BBA,Marketing,2020
+Business Intelligence Developer,BIWorks,Chennai,"['SQL', 'Power BI', 'Excel']",M.Tech,IT,2022
+DevOps Engineer,CloudWorks,Coimbatore,"['Docker', 'Kubernetes', 'AWS']",B.Tech,IT,2021
+Data Engineer,BigDataTech,Chennai,"['SQL', 'Hadoop', 'Spark']",M.Tech,CS,2023
+Cybersecurity Analyst,SecureTech,Coimbatore,"['Cybersecurity', 'Firewall', 'Networking']",B.Tech,CSE,2022
+Software Tester,TestWorks,Chennai,"['Selenium', 'Python', 'Automation']",B.Tech,CSE,2020
+AI Researcher,DeepAI,Coimbatore,"['Python', 'AI', 'Deep Learning', 'TensorFlow']",PhD,AI,2023
+Product Designer,DesignMax,Chennai,"['Figma', 'Sketch', 'Photoshop']",BFA,Design,2020
+Cloud Engineer,CloudPrime,Coimbatore,"['AWS', 'Azure', 'Cloud Migration']",B.Tech,IT,2021
+Data Analyst,DataTron,Chennai,"['Python', 'SQL', 'Power BI']",B.Tech,Statistics,2022
+Blockchain Developer,ChainTech,Coimbatore,"['Blockchain', 'Solidity', 'Ethereum']",M.Tech,CS,2023
+Sales Manager,SalesPro,Chennai,"['Sales', 'CRM', 'Business Development']",MBA,Sales,2022
+Business Consultant,ConsultCo,Coimbatore,"['Strategy', 'Consulting', 'Business Analysis']",MBA,Consulting,2021
+Embedded Systems Engineer,EmbedWorks,Chennai,"['Embedded C', 'IoT', 'ARM']",B.Tech,CS,2022
+Game Developer,GameLabs,Coimbatore,"['C++', 'Unity', 'Game Design']",B.Tech,IT,2021
+Financial Analyst,FinTech,Chennai,"['Financial Modeling', 'Excel', 'Data Analysis']",B.Com,Finance,2022
+Automation Engineer,AutoTech,Coimbatore,"['Selenium', 'Python', 'Java']",B.Tech,CSE,2021
+Web Developer,WebLab,Chennai,"['React', 'Node.js', 'JavaScript']",B.Tech,CSE,2022
+Systems Administrator,SysTech,Coimbatore,"['Linux', 'Windows', 'Networking']",B.Tech,IT,2021
+Business Development Manager,BDWorks,Chennai,"['Sales', 'Business Development', 'CRM']",MBA,Sales,2021
+Data Architect,DataPro,Coimbatore,"['SQL', 'Hadoop', 'Data Modeling']",M.Tech,CS,2023
+Content Writer,WriteTech,Chennai,"['Content Writing', 'SEO', 'Editing']",B.A,English,2020
+Marketing Executive,MarketPro,Chennai,"['SEO', 'Social Media', 'Content Writing']",BBA,Marketing,2022
+IT Support Specialist,TechSupport,Coimbatore,"['Networking', 'Troubleshooting', 'Windows']",B.Tech,IT,2021
+Software Engineer,Zoho,Madurai,"['Java', 'Python', 'SQL']",B.Tech,CSE,2023
+Cybersecurity Engineer,Zoho,Chennai,"['Cybersecurity', 'Networking', 'Firewall']",B.Tech,CSE,2021
+Cloud Architect,Tech Mahindra,Chennai,"['AWS', 'Azure', 'GCP', 'Cloud Design']",M.Tech,CS,2023
+AI Developer,Zoho,Coimbatore,"['Python', 'TensorFlow', 'Deep Learning']",M.Tech,AI,2021
+SEO Specialist,Tech Mahindra,Chennai,"['SEO', 'Google Analytics', 'SEM']",B.Sc,Marketing,2020
+Operations Analyst,TCS,Coimbatore,"['Operations', 'Data Analysis', 'SQL']",BBA,Operations,2022
+IT Manager,Zoho,Chennai,"['IT Infrastructure', 'Project Management']",B.Tech,IT,2021
+Mobile Developer,Tech Mahindra,Coimbatore,"['React Native', 'Android', 'Java']",B.Tech,IT,2022
+Software Engineer,TechTigers,Chennai,"['Java', 'Python', 'SQL']",B.Tech,CSE,2023
+Data Scientist,DataPrime,Chennai,"['Python', 'R', 'SQL']",M.Tech,CS,2022
+Business Analyst,BizLab,Coimbatore,"['Excel', 'Power BI', 'SQL']",BBA,Business,2021
+Web Developer,WebSolutions,Chennai,"['HTML', 'CSS', 'JavaScript']",B.Tech,IT,2022
+Data Analyst,DataWiz,Chennai,"['Python', 'SQL', 'Tableau']",B.Sc,Statistics,2021
+Cloud Solutions Architect,CloudGen,Coimbatore,"['AWS', 'Azure', 'GCP']",M.Tech,CS,2023
+Full Stack Developer,TechnoWorks,Chennai,"['JavaScript', 'Node.js', 'React']",B.Tech,IT,2021
+Machine Learning Engineer,MLSystems,Coimbatore,"['Python', 'TensorFlow', 'Keras']",M.Tech,AI,2023
+Software Developer,CodeCraft,Chennai,"['Java', 'Spring Boot', 'Hibernate']",B.Tech,CSE,2022
+Mobile App Developer,MobileX,Chennai,"['Swift', 'Kotlin', 'React Native']",B.Tech,IT,2021
+Product Manager,ProductMax,Coimbatore,"['Agile', 'Scrum', 'Leadership']",MBA,Management,2022
+UI/UX Designer,DesignHub,Chennai,"['Sketch', 'Figma', 'Adobe XD']",BFA,Design,2020
+Operations Manager,OpsWorks,Coimbatore,"['Operations', 'Excel', 'Logistics']",MBA,Operations,2021
+Network Engineer,NetPro,Chennai,"['Networking', 'CCNA', 'Cisco']",B.Tech,IT,2022
+Marketing Manager,MarketTech,Coimbatore,"['SEO', 'Google Ads', 'SEM']",MBA,Marketing,2021
+Data Scientist,InnovateTech,Chennai,"['Python', 'R', 'Machine Learning']",M.Tech,CS,2023
+Java Developer,DevLab,Coimbatore,"['Java', 'Spring Boot', 'Hibernate']",B.Tech,CSE,2021
+HR Manager,PeopleTech,Chennai,"['Recruitment', 'HR Management']",MBA,HR,2022
+Digital Marketing Specialist,MarketerPro,Coimbatore,"['SEO', 'Content Writing', 'Google Ads']",BBA,Marketing,2020
+Business Intelligence Developer,BIWorks,Chennai,"['SQL', 'Power BI', 'Excel']",M.Tech,IT,2022
+DevOps Engineer,CloudWorks,Coimbatore,"['Docker', 'Kubernetes', 'AWS']",B.Tech,IT,2021
+Data Engineer,BigDataTech,Chennai,"['SQL', 'Hadoop', 'Spark']",M.Tech,CS,2023
+Cybersecurity Analyst,SecureTech,Coimbatore,"['Cybersecurity', 'Firewall', 'Networking']",B.Tech,CSE,2022
+Software Tester,TestWorks,Chennai,"['Selenium', 'Python', 'Automation']",B.Tech,CSE,2020
+AI Researcher,DeepAI,Coimbatore,"['Python', 'AI', 'Deep Learning', 'TensorFlow']",PhD,AI,2023
+Product Designer,DesignMax,Chennai,"['Figma', 'Sketch', 'Photoshop']",BFA,Design,2020
+Cloud Engineer,CloudPrime,Coimbatore,"['AWS', 'Azure', 'Cloud Migration']",B.Tech,IT,2021
+Data Analyst,DataTron,Chennai,"['Python', 'SQL', 'Power BI']",B.Tech,Statistics,2022
+Blockchain Developer,ChainTech,Coimbatore,"['Blockchain', 'Solidity', 'Ethereum']",M.Tech,CS,2023
+Sales Manager,SalesPro,Chennai,"['Sales', 'CRM', 'Business Development']",MBA,Sales,2022
+Business Consultant,ConsultCo,Coimbatore,"['Strategy', 'Consulting', 'Business Analysis']",MBA,Consulting,2021
+Embedded Systems Engineer,EmbedWorks,Chennai,"['Embedded C', 'IoT', 'ARM']",B.Tech,CS,2022
+Game Developer,GameLabs,Coimbatore,"['C++', 'Unity', 'Game Design']",B.Tech,IT,2021
+Financial Analyst,FinTech,Chennai,"['Financial Modeling', 'Excel', 'Data Analysis']",B.Com,Finance,2022
+Automation Engineer,AutoTech,Coimbatore,"['Selenium', 'Python', 'Java']",B.Tech,CSE,2021
+Web Developer,WebLab,Chennai,"['React', 'Node.js', 'JavaScript']",B.Tech,CSE,2022
+Systems Administrator,SysTech,Coimbatore,"['Linux', 'Windows', 'Networking']",B.Tech,IT,2021
+Business Development Manager,BDWorks,Chennai,"['Sales', 'Business Development', 'CRM']",MBA,Sales,2021
+Data Architect,DataPro,Coimbatore,"['SQL', 'Hadoop', 'Data Modeling']",M.Tech,CS,2023
+Content Writer,WriteTech,Chennai,"['Content Writing', 'SEO', 'Editing']",B.A,English,2020
+Marketing Executive,MarketPro,Chennai,"['SEO', 'Social Media', 'Content Writing']",BBA,Marketing,2022
+IT Support Specialist,TechSupport,Coimbatore,"['Networking', 'Troubleshooting', 'Windows']",B.Tech,IT,2021
+Software Engineer,Zoho,Madurai,"['Java', 'Python', 'SQL']",B.Tech,CSE,2023
+AI Developer,Zoho,Bangalore,"['Python', 'TensorFlow', 'Deep Learning']",M.Tech,AI,2021
+SEO Specialist,Tech Mahindra,Chennai,"['SEO', 'Google Analytics', 'SEM']",B.Sc,Marketing,2020
+Operations Analyst,TCS,Chennai,"['Operations', 'Data Analysis', 'SQL']",BBA,Operations,2022
+IT Manager,Zoho,Pune,"['IT Infrastructure', 'Project Management']",B.Tech,IT,2021
+Mobile Developer,Tech Mahindra,Coimbatore,"['React Native', 'Android', 'Java']",B.Tech,IT,2022
+Software Engineer,TechLabs,Chennai,"['Python', 'Flask', 'Django']",B.Tech,IT,2022
+DevOps Specialist,OpsMasters,Coimbatore,"['Kubernetes', 'Docker', 'AWS']",B.Tech,CSE,2021
+Cloud Consultant,CloudLab,Chennai,"['AWS', 'Azure', 'GCP']",M.Tech,CS,2021
+JavaScript Developer,WebWorks,Chennai,"['JavaScript', 'React', 'Node.js']",B.Tech,CSE,2022
+Product Manager,TechPro,Coimbatore,"['Agile', 'Product Roadmap', 'Scrum']",MBA,Management,2022
+Business Intelligence Analyst,BIPro,Chennai,"['SQL', 'Power BI', 'Excel']",MBA,Business,2022
+Data Scientist,DataTech,Coimbatore,"['Python', 'Machine Learning', 'R']",M.Tech,CS,2023
+Cybersecurity Engineer,SecureLabs,Chennai,"['Cybersecurity', 'Networking', 'Firewall']",B.Tech,CSE,2021
+Cloud Architect,CloudPrime,Chennai,"['AWS', 'Azure', 'GCP', 'Cloud Design']",M.Tech,CS,2023
+AI Developer,AI Innovations,Coimbatore,"['Python', 'TensorFlow', 'Deep Learning']",M.Tech,AI,2021
+SEO Specialist,SEOPro,Chennai,"['SEO', 'Google Analytics', 'SEM']",B.Sc,Marketing,2020
+Software Engineer Intern,Zoho,Madurai,"['Java', 'Python', 'SQL']",B.Tech,CSE,2025
+Data Scientist Intern,Cognizant,Hyderabad,"['Python', 'R', 'SQL']",M.Tech,CS,2026
+Business Analyst Intern,TCS,Delhi,"['Excel', 'Power BI', 'SQL']",BBA,Business,2026
+Web Developer Intern,Zoho,Chennai,"['HTML', 'CSS', 'JavaScript']",B.Tech,IT,2027
+Data Analyst Intern,Tech Mahindra,Bangalore,"['Python', 'SQL', 'Tableau']",B.Sc,Statistics,2025
+Cloud Solutions Architect Intern,Zoho,Coimbatore,"['AWS', 'Azure', 'GCP']",M.Tech,CS,2027
+Full Stack Developer Intern,Cognizant,Pune,"['JavaScript', 'Node.js', 'React']",B.Tech,IT,2025
+Machine Learning Engineer Intern,Tech Mahindra,Chennai,"['Python', 'TensorFlow', 'Keras']",M.Tech,AI,2026
+Software Developer Intern,TCS,Chennai,"['Java', 'Spring Boot', 'Hibernate']",B.Tech,CSE,2027
+Mobile App Developer Intern,Zoho,Coimbatore,"['Swift', 'Kotlin', 'React Native']",B.Tech,IT,2025
+Product Manager Intern,Tech Mahindra,Hyderabad,"['Agile', 'Scrum', 'Leadership']",MBA,Management,2026
+UI/UX Designer Intern,Zoho,Mysore,"['Sketch', 'Figma', 'Adobe XD']",BFA,Design,2026
+Operations Manager Intern,Cognizant,Chennai,"['Operations', 'Excel', 'Logistics']",MBA,Operations,2025
+Network Engineer Intern,TCS,Bangalore,"['Networking', 'CCNA', 'Cisco']",B.Tech,IT,2026
+Marketing Manager Intern,Tech Mahindra,Pune,"['SEO', 'Google Ads', 'SEM']",MBA,Marketing,2027
+Data Scientist Intern,Zoho,Madurai,"['Python', 'R', 'Machine Learning']",M.Tech,CS,2025
+Java Developer Intern,Tech Mahindra,Coimbatore,"['Java', 'Spring Boot', 'Hibernate']",B.Tech,CSE,2026
+HR Manager Intern,Cognizant,Chennai,"['Recruitment', 'HR Management']",MBA,HR,2027
+Digital Marketing Specialist Intern,Zoho,Chennai,"['SEO', 'Content Writing', 'Google Ads']",BBA,Marketing,2026
+Business Intelligence Developer Intern,Tech Mahindra,Bangalore,"['SQL', 'Power BI', 'Excel']",M.Tech,IT,2027
+DevOps Engineer Intern,TCS,Hyderabad,"['Docker', 'Kubernetes', 'AWS']",B.Tech,IT,2025
+Data Engineer Intern,Zoho,Coimbatore,"['SQL', 'Hadoop', 'Spark']",M.Tech,CS,2027
+Cybersecurity Analyst Intern,Tech Mahindra,Chennai,"['Cybersecurity', 'Firewall', 'Networking']",B.Tech,CSE,2026
+Software Tester Intern,Zoho,Pune,"['Selenium', 'Python', 'Automation']",B.Tech,CSE,2027
+AI Researcher Intern,TCS,Coimbatore,"['Python', 'AI', 'Deep Learning', 'TensorFlow']",PhD,AI,2025
+Product Designer Intern,Tech Mahindra,Delhi,"['Figma', 'Sketch', 'Photoshop']",BFA,Design,2026
+Cloud Engineer Intern,Zoho,Coimbatore,"['AWS', 'Azure', 'Cloud Migration']",B.Tech,IT,2025
+Data Analyst Intern,Cognizant,Chennai,"['Python', 'SQL', 'Power BI']",B.Tech,Statistics,2026
+Blockchain Developer Intern,Zoho,Mumbai,"['Blockchain', 'Solidity', 'Ethereum']",M.Tech,CS,2025
+Sales Manager Intern,TCS,Chennai,"['Sales', 'CRM', 'Business Development']",MBA,Sales,2027
+Business Consultant Intern,Tech Mahindra,Hyderabad,"['Strategy', 'Consulting', 'Business Analysis']",MBA,Consulting,2026
+Embedded Systems Engineer Intern,Zoho,Chennai,"['Embedded C', 'IoT', 'ARM']",B.Tech,CS,2027
+Game Developer Intern,TCS,Coimbatore,"['C++', 'Unity', 'Game Design']",B.Tech,IT,2025
+Financial Analyst Intern,Tech Mahindra,Chennai,"['Financial Modeling', 'Excel', 'Data Analysis']",B.Com,Finance,2026
+Automation Engineer Intern,Zoho,Chennai,"['Selenium', 'Python', 'Java']",B.Tech,CSE,2027
+Web Developer Intern,Tech Mahindra,Bangalore,"['React', 'Node.js', 'JavaScript']",B.Tech,CSE,2025
+Systems Administrator Intern,TCS,Coimbatore,"['Linux', 'Windows', 'Networking']",B.Tech,IT,2026
+Business Development Manager Intern,Zoho,Mysore,"['Sales', 'Business Development', 'CRM']",MBA,Sales,2027
+Data Architect Intern,Tech Mahindra,Hyderabad,"['SQL', 'Hadoop', 'Data Modeling']",M.Tech,CS,2025
+Content Writer Intern,TCS,Chennai,"['Content Writing', 'SEO', 'Editing']",B.A,English,2026
+Marketing Executive Intern,Zoho,Coimbatore,"['SEO', 'Social Media', 'Content Writing']",BBA,Marketing,2025
+IT Support Specialist Intern,Tech Mahindra,Hyderabad,"['Networking', 'Troubleshooting', 'Windows']",B.Tech,IT,2026
+Software Engineer Intern,Cognizant,Coimbatore,"['Python', 'Flask', 'Django']",B.Tech,IT,2027
+DevOps Specialist Intern,Zoho,Chennai,"['Kubernetes', 'Docker', 'AWS']",B.Tech,CSE,2025
+Cloud Consultant Intern,Tech Mahindra,Bangalore,"['AWS', 'Azure', 'GCP']",M.Tech,CS,2027
+JavaScript Developer Intern,TCS,Mumbai,"['JavaScript', 'React', 'Node.js']",B.Tech,CSE,2026
+Product Manager Intern,Zoho,Bangalore,"['Agile', 'Product Roadmap', 'Scrum']",MBA,Management,2025
+Business Intelligence Analyst Intern,Tech Mahindra,Pune,"['SQL', 'Power BI', 'Excel']",MBA,Business,2026
+Data Scientist Intern,TCS,Chennai,"['Python', 'Machine Learning', 'R']",M.Tech,CS,2027
+Cybersecurity Engineer Intern,Zoho,Coimbatore,"['Cybersecurity', 'Networking', 'Firewall']",B.Tech,CSE,2025
+Cloud Architect Intern,Tech Mahindra,Delhi,"['AWS', 'Azure', 'GCP', 'Cloud Design']",M.Tech,CS,2026
+AI Developer Intern,Zoho,Bangalore,"['Python', 'TensorFlow', 'Deep Learning']",M.Tech,AI,2025
+SEO Specialist Intern,Tech Mahindra,Chennai,"['SEO', 'Google Analytics', 'SEM']",B.Sc,Marketing,2026
+Operations Analyst Intern,TCS,Chennai,"['Operations', 'Data Analysis', 'SQL']",BBA,Operations,2027
+IT Manager Intern,Zoho,Pune,"['IT Infrastructure', 'Project Management']",B.Tech,IT,2025
+Mobile Developer Intern,Tech Mahindra,Coimbatore,"['React Native', 'Android', 'Java']",B.Tech,IT,2026
+Operations Analyst,OpsMax,Coimbatore,"['Operations', 'Data Analysis', 'SQL']",BBA,Operations,2022
+IT Manager,TechSys,Chennai,"['IT Infrastructure', 'Project Management']",B.Tech,IT,2021
+Mobile Developer,AppLabs,Coimbatore,"['React Native', 'Android', 'Java']",B.Tech,IT,2022
+Legal Advisor,LawTech,Chennai,"['Legal Research', 'Contract Law']",B.A.LLB,Law,2020
+Operations Manager,LogiWorks,Coimbatore,"['Supply Chain Management', 'Logistics']",MBA,Operations,2022
+Public Relations Officer,PRMax,Chennai,"['Media Relations', 'Crisis Management', 'Communication']",B.A,Communication,2021
+Event Coordinator,EventsCo,Coimbatore,"['Event Planning', 'Logistics', 'Budgeting']",BBA,Management,2020
+Customer Support Executive,HelpDesk,Chennai,"['Customer Service', 'Communication']",B.Com,Commerce,2021
+Advertising Executive,AdWorks,Coimbatore,"['Advertising', 'Marketing', 'Campaign Management']",BBA,Marketing,2021
+Content Strategist,ContentPlus,Chennai,"['Content Creation', 'Social Media', 'SEO']",B.A,English,2022
+Real Estate Agent,PropMax,Coimbatore,"['Property Sales', 'Negotiation', 'Customer Relations']",BBA,Management,2021
+Human Resources Assistant,HR Solutions,Chennai,"['Recruitment', 'HR Policies', 'Employee Relations']",BBA,HR,2020
+Financial Planner,FinServe,Coimbatore,"['Financial Planning', 'Investments', 'Retirement Planning']",B.Com,Finance,2021
+Management Consultant,ConsultFirm,Chennai,"['Strategy', 'Organizational Change', 'Consulting']",MBA,Consulting,2022
+Software Engineer Intern,Zoho,Madurai,"['Java', 'Python', 'SQL']",B.Tech,CSE,2024
+Data Scientist Intern,Cognizant,Hyderabad,"['Python', 'R', 'SQL']",M.Tech,CS,2024
+Business Analyst Intern,TCS,Delhi,"['Excel', 'Power BI', 'SQL']",BBA,Business,2024
+Web Developer Intern,Zoho,Chennai,"['HTML', 'CSS', 'JavaScript']",B.Tech,IT,2024
+Data Analyst Intern,Tech Mahindra,Bangalore,"['Python', 'SQL', 'Tableau']",B.Sc,Statistics,2024
+Cloud Solutions Architect Intern,Zoho,Coimbatore,"['AWS', 'Azure', 'GCP']",M.Tech,CS,2024
+Full Stack Developer Intern,Cognizant,Pune,"['JavaScript', 'Node.js', 'React']",B.Tech,IT,2024
+Machine Learning Engineer Intern,Tech Mahindra,Chennai,"['Python', 'TensorFlow', 'Keras']",M.Tech,AI,2024
+Software Developer Intern,TCS,Chennai,"['Java', 'Spring Boot', 'Hibernate']",B.Tech,CSE,2024
+Mobile App Developer Intern,Zoho,Coimbatore,"['Swift', 'Kotlin', 'React Native']",B.Tech,IT,2024
+Product Manager Intern,Tech Mahindra,Hyderabad,"['Agile', 'Scrum', 'Leadership']",MBA,Management,2024
+UI/UX Designer Intern,Zoho,Mysore,"['Sketch', 'Figma', 'Adobe XD']",BFA,Design,2024
+Operations Manager Intern,Cognizant,Chennai,"['Operations', 'Excel', 'Logistics']",MBA,Operations,2024
+Network Engineer Intern,TCS,Bangalore,"['Networking', 'CCNA', 'Cisco']",B.Tech,IT,2024
+Marketing Manager Intern,Tech Mahindra,Pune,"['SEO', 'Google Ads', 'SEM']",MBA,Marketing,2024
+Data Scientist Intern,Zoho,Madurai,"['Python', 'R', 'Machine Learning']",M.Tech,CS,2024
+Java Developer Intern,Tech Mahindra,Coimbatore,"['Java', 'Spring Boot', 'Hibernate']",B.Tech,CSE,2024
+HR Manager Intern,Cognizant,Chennai,"['Recruitment', 'HR Management']",MBA,HR,2024
+Digital Marketing Specialist Intern,Zoho,Chennai,"['SEO', 'Content Writing', 'Google Ads']",BBA,Marketing,2024
+Business Intelligence Developer Intern,Tech Mahindra,Bangalore,"['SQL', 'Power BI', 'Excel']",M.Tech,IT,2024
+DevOps Engineer Intern,TCS,Hyderabad,"['Docker', 'Kubernetes', 'AWS']",B.Tech,IT,2024
+Data Engineer Intern,Zoho,Coimbatore,"['SQL', 'Hadoop', 'Spark']",M.Tech,CS,2024
+Cybersecurity Analyst Intern,Tech Mahindra,Chennai,"['Cybersecurity', 'Firewall', 'Networking']",B.Tech,CSE,2024
+Software Tester Intern,Zoho,Pune,"['Selenium', 'Python', 'Automation']",B.Tech,CSE,2024
+AI Researcher Intern,TCS,Coimbatore,"['Python', 'AI', 'Deep Learning', 'TensorFlow']",PhD,AI,2024
+Product Designer Intern,Tech Mahindra,Delhi,"['Figma', 'Sketch', 'Photoshop']",BFA,Design,2024
+Cloud Engineer Intern,Zoho,Coimbatore,"['AWS', 'Azure', 'Cloud Migration']",B.Tech,IT,2024
+Data Analyst Intern,Cognizant,Chennai,"['Python', 'SQL', 'Power BI']",B.Tech,Statistics,2024
+Blockchain Developer Intern,Zoho,Mumbai,"['Blockchain', 'Solidity', 'Ethereum']",M.Tech,CS,2024
+Sales Manager Intern,TCS,Chennai,"['Sales', 'CRM', 'Business Development']",MBA,Sales,2024
+Business Consultant Intern,Tech Mahindra,Hyderabad,"['Strategy', 'Consulting', 'Business Analysis']",MBA,Consulting,2024
+Embedded Systems Engineer Intern,Zoho,Chennai,"['Embedded C', 'IoT', 'ARM']",B.Tech,CS,2024
+Game Developer Intern,TCS,Coimbatore,"['C++', 'Unity', 'Game Design']",B.Tech,IT,2024
+Financial Analyst Intern,Tech Mahindra,Chennai,"['Financial Modeling', 'Excel', 'Data Analysis']",B.Com,Finance,2024
+Automation Engineer Intern,Zoho,Chennai,"['Selenium', 'Python', 'Java']",B.Tech,CSE,2024
+Web Developer Intern,Tech Mahindra,Bangalore,"['React', 'Node.js', 'JavaScript']",B.Tech,CSE,2024
+Systems Administrator Intern,TCS,Coimbatore,"['Linux', 'Windows', 'Networking']",B.Tech,IT,2024
+Business Development Manager Intern,Zoho,Mysore,"['Sales', 'Business Development', 'CRM']",MBA,Sales,2024
+Data Architect Intern,Tech Mahindra,Hyderabad,"['SQL', 'Hadoop', 'Data Modeling']",M.Tech,CS,2024
+Content Writer Intern,TCS,Chennai,"['Content Writing', 'SEO', 'Editing']",B.A,English,2024
+Marketing Executive Intern,Zoho,Coimbatore,"['SEO', 'Social Media', 'Content Writing']",BBA,Marketing,2024
+IT Support Specialist Intern,Tech Mahindra,Hyderabad,"['Networking', 'Troubleshooting', 'Windows']",B.Tech,IT,2024
+Software Engineer Intern,Cognizant,Coimbatore,"['Python', 'Flask', 'Django']",B.Tech,IT,2024
+DevOps Specialist Intern,Zoho,Chennai,"['Kubernetes', 'Docker', 'AWS']",B.Tech,CSE,2024
+Cloud Consultant Intern,Tech Mahindra,Bangalore,"['AWS', 'Azure', 'GCP']",M.Tech,CS,2024
+JavaScript Developer Intern,TCS,Mumbai,"['JavaScript', 'React', 'Node.js']",B.Tech,CSE,2024
+Product Manager Intern,Zoho,Bangalore,"['Agile', 'Product Roadmap', 'Scrum']",MBA,Management,2024
+Business Intelligence Analyst Intern,Tech Mahindra,Pune,"['SQL', 'Power BI', 'Excel']",MBA,Business,2024
+Data Scientist Intern,TCS,Chennai,"['Python', 'Machine Learning', 'R']",M.Tech,CS,2024
+Cybersecurity Engineer Intern,Zoho,Coimbatore,"['Cybersecurity', 'Networking', 'Firewall']",B.Tech,CSE,2024
+Cloud Architect Intern,Tech Mahindra,Delhi,"['AWS', 'Azure', 'GCP', 'Cloud Design']",M.Tech,CS,2024
+AI Developer Intern,Zoho,Bangalore,"['Python', 'TensorFlow', 'Deep Learning']",M.Tech,AI,2024
+SEO Specialist Intern,Tech Mahindra,Chennai,"['SEO', 'Google Analytics', 'SEM']",B.Sc,Marketing,2024
+Operations Analyst Intern,TCS,Chennai,"['Operations', 'Data Analysis', 'SQL']",BBA,Operations,2024
+IT Manager Intern,Zoho,Pune,"['IT Infrastructure', 'Project Management']",B.Tech,IT,2024
+Mobile Developer Intern,Tech Mahindra,Coimbatore,"['React Native', 'Android', 'Java']",B.Tech,IT,2024
+Software Engineer,TechTigers,Chennai,"['Java', 'Python', 'SQL']",B.Tech,CSE,2023
+Data Scientist,DataPrime,Chennai,"['Python', 'R', 'SQL']",M.Tech,CS,2022
+Business Analyst,BizLab,Coimbatore,"['Excel', 'Power BI', 'SQL']",BBA,Business,2021
+Web Developer,WebSolutions,Chennai,"['HTML', 'CSS', 'JavaScript']",B.Tech,IT,2022
+Data Analyst,DataWiz,Chennai,"['Python', 'SQL', 'Tableau']",B.Sc,Statistics,2021
+Cloud Solutions Architect,CloudGen,Coimbatore,"['AWS', 'Azure', 'GCP']",M.Tech,CS,2023
+Full Stack Developer,TechnoWorks,Chennai,"['JavaScript', 'Node.js', 'React']",B.Tech,IT,2021
+Machine Learning Engineer,MLSystems,Coimbatore,"['Python', 'TensorFlow', 'Keras']",M.Tech,AI,2023
+Software Developer,CodeCraft,Chennai,"['Java', 'Spring Boot', 'Hibernate']",B.Tech,CSE,2022
+Mobile App Developer,MobileX,Chennai,"['Swift', 'Kotlin', 'React Native']",B.Tech,IT,2021
+Product Manager,ProductMax,Coimbatore,"['Agile', 'Scrum', 'Leadership']",MBA,Management,2022
+UI/UX Designer,DesignHub,Chennai,"['Sketch', 'Figma', 'Adobe XD']",BFA,Design,2020
+Operations Manager,OpsWorks,Coimbatore,"['Operations', 'Excel', 'Logistics']",MBA,Operations,2021
+Network Engineer,NetPro,Chennai,"['Networking', 'CCNA', 'Cisco']",B.Tech,IT,2022
+Marketing Manager,MarketTech,Coimbatore,"['SEO', 'Google Ads', 'SEM']",MBA,Marketing,2021
+Data Scientist,InnovateTech,Chennai,"['Python', 'R', 'Machine Learning']",M.Tech,CS,2023
+Java Developer,DevLab,Coimbatore,"['Java', 'Spring Boot', 'Hibernate']",B.Tech,CSE,2021
+HR Manager,PeopleTech,Chennai,"['Recruitment', 'HR Management']",MBA,HR,2022
+Digital Marketing Specialist,MarketerPro,Coimbatore,"['SEO', 'Content Writing', 'Google Ads']",BBA,Marketing,2020
+Business Intelligence Developer,BIWorks,Chennai,"['SQL', 'Power BI', 'Excel']",M.Tech,IT,2022
+DevOps Engineer,CloudWorks,Coimbatore,"['Docker', 'Kubernetes', 'AWS']",B.Tech,IT,2021
+Data Engineer,BigDataTech,Chennai,"['SQL', 'Hadoop', 'Spark']",M.Tech,CS,2023
+Cybersecurity Analyst,SecureTech,Coimbatore,"['Cybersecurity', 'Firewall', 'Networking']",B.Tech,CSE,2022
+Software Tester,TestWorks,Chennai,"['Selenium', 'Python', 'Automation']",B.Tech,CSE,2020
+AI Researcher,DeepAI,Coimbatore,"['Python', 'AI', 'Deep Learning', 'TensorFlow']",PhD,AI,2023
+Product Designer,DesignMax,Chennai,"['Figma', 'Sketch', 'Photoshop']",BFA,Design,2020
+Cloud Engineer,CloudPrime,Coimbatore,"['AWS', 'Azure', 'Cloud Migration']",B.Tech,IT,2021
+Data Analyst,DataTron,Chennai,"['Python', 'SQL', 'Power BI']",B.Tech,Statistics,2022
+Blockchain Developer,ChainTech,Coimbatore,"['Blockchain', 'Solidity', 'Ethereum']",M.Tech,CS,2023
+Sales Manager,SalesPro,Chennai,"['Sales', 'CRM', 'Business Development']",MBA,Sales,2022
+Business Consultant,ConsultCo,Coimbatore,"['Strategy', 'Consulting', 'Business Analysis']",MBA,Consulting,2021
+Embedded Systems Engineer,EmbedWorks,Chennai,"['Embedded C', 'IoT', 'ARM']",B.Tech,CS,2022
+Game Developer,GameLabs,Coimbatore,"['C++', 'Unity', 'Game Design']",B.Tech,IT,2021
+Financial Analyst,FinTech,Chennai,"['Financial Modeling', 'Excel', 'Data Analysis']",B.Com,Finance,2022
+Automation Engineer,AutoTech,Coimbatore,"['Selenium', 'Python', 'Java']",B.Tech,CSE,2021
+Web Developer,WebLab,Chennai,"['React', 'Node.js', 'JavaScript']",B.Tech,CSE,2022
+Systems Administrator,SysTech,Coimbatore,"['Linux', 'Windows', 'Networking']",B.Tech,IT,2021
+Business Development Manager,BDWorks,Chennai,"['Sales', 'Business Development', 'CRM']",MBA,Sales,2021
+Data Architect,DataPro,Coimbatore,"['SQL', 'Hadoop', 'Data Modeling']",M.Tech,CS,2023
+Content Writer,WriteTech,Chennai,"['Content Writing', 'SEO', 'Editing']",B.A,English,2020
+Marketing Executive,MarketPro,Chennai,"['SEO', 'Social Media', 'Content Writing']",BBA,Marketing,2022
+IT Support Specialist,TechSupport,Coimbatore,"['Networking', 'Troubleshooting', 'Windows']",B.Tech,IT,2021
+Software Engineer,TechLabs,Chennai,"['Python', 'Flask', 'Django']",B.Tech,IT,2022
+DevOps Specialist,OpsMasters,Coimbatore,"['Kubernetes', 'Docker', 'AWS']",B.Tech,CSE,2021
+Cloud Consultant,CloudLab,Chennai,"['AWS', 'Azure', 'GCP']",M.Tech,CS,2021
+JavaScript Developer,WebWorks,Chennai,"['JavaScript', 'React', 'Node.js']",B.Tech,CSE,2022
+Product Manager,TechPro,Coimbatore,"['Agile', 'Product Roadmap', 'Scrum']",MBA,Management,2022
+Business Intelligence Analyst,BIPro,Chennai,"['SQL', 'Power BI', 'Excel']",MBA,Business,2022
+Data Scientist,DataTech,Coimbatore,"['Python', 'Machine Learning', 'R']",M.Tech,CS,2023
+Cybersecurity Engineer,SecureLabs,Chennai,"['Cybersecurity', 'Networking', 'Firewall']",B.Tech,CSE,2021
+Cloud Architect,CloudPrime,Chennai,"['AWS', 'Azure', 'GCP', 'Cloud Design']",M.Tech,CS,2023
+AI Developer,AI Innovations,Coimbatore,"['Python', 'TensorFlow', 'Deep Learning']",M.Tech,AI,2021
+SEO Specialist,SEOPro,Chennai,"['SEO', 'Google Analytics', 'SEM']",B.Sc,Marketing,2020
+Operations Analyst,OpsMax,Coimbatore,"['Operations', 'Data Analysis', 'SQL']",BBA,Operations,2022
+IT Manager,TechSys,Chennai,"['IT Infrastructure', 'Project Management']",B.Tech,IT,2021
+Mobile Developer,AppLabs,Coimbatore,"['React Native', 'Android', 'Java']",B.Tech,IT,2022
+Software Engineer Intern,Zoho,Madurai,"['Java', 'Python', 'SQL']",B.Tech,CSE,2024
+Data Scientist Intern,Cognizant,Hyderabad,"['Python', 'R', 'SQL']",M.Tech,CS,2024
+Business Analyst Intern,TCS,Delhi,"['Excel', 'Power BI', 'SQL']",BBA,Business,2024
+Web Developer Intern,Zoho,Chennai,"['HTML', 'CSS', 'JavaScript']",B.Tech,IT,2024
+Data Analyst Intern,Tech Mahindra,Bangalore,"['Python', 'SQL', 'Tableau']",B.Sc,Statistics,2024
+Cloud Solutions Architect Intern,Zoho,Coimbatore,"['AWS', 'Azure', 'GCP']",M.Tech,CS,2024
+Full Stack Developer Intern,Cognizant,Pune,"['JavaScript', 'Node.js', 'React']",B.Tech,IT,2024
+Machine Learning Engineer Intern,Tech Mahindra,Chennai,"['Python', 'TensorFlow', 'Keras']",M.Tech,AI,2024
+Software Developer Intern,TCS,Chennai,"['Java', 'Spring Boot', 'Hibernate']",B.Tech,CSE,2024
+Mobile App Developer Intern,Zoho,Coimbatore,"['Swift', 'Kotlin', 'React Native']",B.Tech,IT,2024
+Product Manager Intern,Tech Mahindra,Hyderabad,"['Agile', 'Scrum', 'Leadership']",MBA,Management,2024
+UI/UX Designer Intern,Zoho,Mysore,"['Sketch', 'Figma', 'Adobe XD']",BFA,Design,2024
+Operations Manager Intern,Cognizant,Chennai,"['Operations', 'Excel', 'Logistics']",MBA,Operations,2024
+Network Engineer Intern,TCS,Bangalore,"['Networking', 'CCNA', 'Cisco']",B.Tech,IT,2024
+Marketing Manager Intern,Tech Mahindra,Pune,"['SEO', 'Google Ads', 'SEM']",MBA,Marketing,2024
+Data Scientist Intern,Zoho,Madurai,"['Python', 'R', 'Machine Learning']",M.Tech,CS,2024
+Java Developer Intern,Tech Mahindra,Coimbatore,"['Java', 'Spring Boot', 'Hibernate']",B.Tech,CSE,2024
+HR Manager Intern,Cognizant,Chennai,"['Recruitment', 'HR Management']",MBA,HR,2024
+Digital Marketing Specialist Intern,Zoho,Chennai,"['SEO', 'Content Writing', 'Google Ads']",BBA,Marketing,2024
+Business Intelligence Developer Intern,Tech Mahindra,Bangalore,"['SQL', 'Power BI', 'Excel']",M.Tech,IT,2024
+DevOps Engineer Intern,TCS,Hyderabad,"['Docker', 'Kubernetes', 'AWS']",B.Tech,IT,2024
+Data Engineer Intern,Zoho,Coimbatore,"['SQL', 'Hadoop', 'Spark']",M.Tech,CS,2024
+Cybersecurity Analyst Intern,Tech Mahindra,Chennai,"['Cybersecurity', 'Firewall', 'Networking']",B.Tech,CSE,2024
+Software Tester Intern,Zoho,Pune,"['Selenium', 'Python', 'Automation']",B.Tech,CSE,2024
+AI Researcher Intern,TCS,Coimbatore,"['Python', 'AI', 'Deep Learning', 'TensorFlow']",PhD,AI,2024
+Product Designer Intern,Tech Mahindra,Delhi,"['Figma', 'Sketch', 'Photoshop']",BFA,Design,2024
+Cloud Engineer Intern,Zoho,Coimbatore,"['AWS', 'Azure', 'Cloud Migration']",B.Tech,IT,2024
+Data Analyst Intern,Cognizant,Chennai,"['Python', 'SQL', 'Power BI']",B.Tech,Statistics,2024
+Blockchain Developer Intern,Zoho,Mumbai,"['Blockchain', 'Solidity', 'Ethereum']",M.Tech,CS,2024
+Sales Manager Intern,TCS,Chennai,"['Sales', 'CRM', 'Business Development']",MBA,Sales,2024
+Business Consultant Intern,Tech Mahindra,Hyderabad,"['Strategy', 'Consulting', 'Business Analysis']",MBA,Consulting,2024
+Embedded Systems Engineer Intern,Zoho,Chennai,"['Embedded C', 'IoT', 'ARM']",B.Tech,CS,2024
+Game Developer Intern,TCS,Coimbatore,"['C++', 'Unity', 'Game Design']",B.Tech,IT,2024
+Financial Analyst Intern,Tech Mahindra,Chennai,"['Financial Modeling', 'Excel', 'Data Analysis']",B.Com,Finance,2024
+Automation Engineer Intern,Zoho,Chennai,"['Selenium', 'Python', 'Java']",B.Tech,CSE,2024
+Web Developer Intern,Tech Mahindra,Bangalore,"['React', 'Node.js', 'JavaScript']",B.Tech,CSE,2024
+Systems Administrator Intern,TCS,Coimbatore,"['Linux', 'Windows', 'Networking']",B.Tech,IT,2024
+Business Development Manager Intern,Zoho,Mysore,"['Sales', 'Business Development', 'CRM']",MBA,Sales,2024
+Data Architect Intern,Tech Mahindra,Hyderabad,"['SQL', 'Hadoop', 'Data Modeling']",M.Tech,CS,2024
+Content Writer Intern,TCS,Chennai,"['Content Writing', 'SEO', 'Editing']",B.A,English,2024
+Marketing Executive Intern,Zoho,Coimbatore,"['SEO', 'Social Media', 'Content Writing']",BBA,Marketing,2024
+IT Support Specialist Intern,Tech Mahindra,Hyderabad,"['Networking', 'Troubleshooting', 'Windows']",B.Tech,IT,2024
+Software Engineer Intern,Cognizant,Coimbatore,"['Python', 'Flask', 'Django']",B.Tech,IT,2024
+DevOps Specialist Intern,Zoho,Chennai,"['Kubernetes', 'Docker', 'AWS']",B.Tech,CSE,2024
+Cloud Consultant Intern,Tech Mahindra,Bangalore,"['AWS', 'Azure', 'GCP']",M.Tech,CS,2024
+JavaScript Developer Intern,TCS,Mumbai,"['JavaScript', 'React', 'Node.js']",B.Tech,CSE,2024
+Product Manager Intern,Zoho,Bangalore,"['Agile', 'Product Roadmap', 'Scrum']",MBA,Management,2024
+Business Intelligence Analyst Intern,Tech Mahindra,Pune,"['SQL', 'Power BI', 'Excel']",MBA,Business,2024
+Data Scientist Intern,TCS,Chennai,"['Python', 'Machine Learning', 'R']",M.Tech,CS,2024
+Cybersecurity Engineer Intern,Zoho,Coimbatore,"['Cybersecurity', 'Networking', 'Firewall']",B.Tech,CSE,2024
+Cloud Architect Intern,Tech Mahindra,Delhi,"['AWS', 'Azure', 'GCP', 'Cloud Design']",M.Tech,CS,2024
+AI Developer Intern,Zoho,Bangalore,"['Python', 'TensorFlow', 'Deep Learning']",M.Tech,AI,2024
+SEO Specialist Intern,Tech Mahindra,Chennai,"['SEO', 'Google Analytics', 'SEM']",B.Sc,Marketing,2024
+Operations Analyst Intern,TCS,Chennai,"['Operations', 'Data Analysis', 'SQL']",BBA,Operations,2024
+IT Manager Intern,Zoho,Pune,"['IT Infrastructure', 'Project Management']",B.Tech,IT,2024
+Mobile Developer Intern,Tech Mahindra,Coimbatore,"['React Native', 'Android', 'Java']",B.Tech,IT,2024
+Retail Manager,ShopMax,Chennai,"['Customer Service', 'Sales Management', 'Retail Operations']",BBA,Management,2020
+Insurance Advisor,SecureLife,Coimbatore,"['Insurance Products', 'Client Relationship', 'Financial Planning']",B.Com,Insurance,2021
+Data Entry Operator,InfoWorks,Chennai,"['Data Entry', 'Excel', 'Typing Speed']",B.Com,Commerce,2020
+Marketing Research Analyst,MarketInsight,Chennai,"['Market Research', 'Data Analysis', 'Consumer Insights']",MBA,Marketing,2022
+Corporate Trainer,LearnCo,Coimbatore,"['Training Development', 'Leadership', 'Team Management']",MBA,Management,2021
+Social Media Manager,SocialPro,Chennai,"['Social Media Strategy', 'Content Creation']",BBA,Marketing,2020
+Sales Executive,SalesMax,Coimbatore,"['Sales', 'Customer Relationship Management', 'Product Knowledge']",B.Com,Sales,2021
+Teacher,EdTech,Chennai,"['Teaching', 'Curriculum Development', 'Classroom Management']",B.Ed,Education,2022
+Recruitment Specialist,TalentPro,Coimbatore,"['Recruitment', 'Interviewing', 'Job Placement']",MBA,HR,2020
+Accountant,FinancePro,Chennai,"['Accounting', 'Taxation', 'Financial Reporting']",B.Com,Commerce,2021
+Procurement Manager,SupplyCo,Coimbatore,"['Supplier Relations', 'Cost Analysis', 'Contract Negotiation']",MBA,Operations,2022
+Legal Assistant,LawPro,Chennai,"['Legal Research', 'Document Drafting']",B.A.LLB,Law,2021
+Community Manager,CommunityHub,Chennai,"['Community Engagement', 'Social Media', 'Event Management']",BBA,Marketing,2020
+Operations Coordinator,OpsPro,Chennai,"['Logistics', 'Supply Chain', 'Project Management']",BBA,Operations,2021
+Administrative Assistant,AdminTech,Chennai,"['Office Management', 'Scheduling', 'Communication']",B.Com,Commerce,2020
+Copywriter,AdWrite,Coimbatore,"['Creative Writing', 'SEO', 'Brand Voice']",B.A,English,2021
+IT Support Technician,TechAssist,Coimbatore,"['Windows', 'Network Support', 'Customer Service']",B.Tech,IT,2020
+Business Development Executive,BizGrow,Chennai,"['Sales', 'CRM', 'Market Research']",BBA,Sales,2022
+Executive Assistant,ExecAssist,Coimbatore,"['Office Management', 'Scheduling', 'Microsoft Office']",B.Com,Commerce,2020
+Marketing Coordinator,MarketWorks,Chennai,"['Social Media Marketing', 'Google Ads', 'Content Creation']",BBA,Marketing,2021
+HR Generalist,PeopleWorks,Coimbatore,"['Recruitment', 'Employee Relations', 'HR Policies']",MBA,HR,2020
+Operations Executive,OperationsPro,Chennai,"['Logistics', 'Supply Chain Management']",BBA,Operations,2022
+Digital Media Specialist,DigMedia,Coimbatore,"['Social Media', 'Content Creation', 'SEO']",BBA,Marketing,2020
+Event Manager,EventWorks,Chennai,"['Event Planning', 'Logistics', 'Vendor Management']",BBA,Management,2021
+Restaurant Manager,DineMax,Coimbatore,"['Customer Service', 'Inventory Management', 'Staff Training']",BBA,Management,2020
+Travel Consultant,TravelPro,Chennai,"['Travel Planning', 'Customer Service', 'Itinerary Creation']",BBA,Travel,2021
+Public Relations Coordinator,PRTech,Coimbatore,"['Media Relations', 'Writing', 'Communication']",B.A,Communication,2021
+SEO Executive,SEOPro,Chennai,"['SEO', 'Google Analytics', 'Content Marketing']",B.Com,Marketing,2020
+Legal Consultant,LegalPlus,Coimbatore,"['Corporate Law', 'Legal Drafting', 'Client Relations']",B.A.LLB,Law,2022
+Training Coordinator,LearnWorks,Chennai,"['Training Development', 'Employee Engagement', 'Communication']",BBA,Management,2021
+Supply Chain Analyst,SupplyMax,Coimbatore,"['Supply Chain Management', 'Data Analysis', 'Excel']",MBA,Operations,2022
+Business Intelligence Manager,BIExpert,Chennai,"['Power BI', 'SQL', 'Data Analysis']",MBA,Business,2022
+Product Marketing Manager,ProductX,Coimbatore,"['Marketing Strategy', 'Product Management', 'Market Research']",MBA,Marketing,2021
+Talent Acquisition Specialist,RecruitPro,Chennai,"['Recruitment', 'Interviewing', 'Onboarding']",MBA,HR,2020
+Healthcare Administrator,HealthMax,Coimbatore,"['Healthcare Management', 'Administration', 'Patient Care']",BBA,Healthcare,2021
+Content Manager,ContentWorks,Chennai,"['Content Strategy', 'Content Creation', 'SEO']",B.A,English,2022
+Tax Consultant,TaxPro,Coimbatore,"['Tax Planning', 'Accounting', 'Legal Research']",B.Com,Finance,2021
+Research Analyst,ResearchX,Chennai,"['Market Research', 'Data Analysis', 'Survey Design']",MBA,Marketing,2022
+Brand Manager,BrandMax,Coimbatore,"['Brand Development', 'Marketing Strategy', 'Advertising']",MBA,Marketing,2021
+Legal Advisor,LawPro,Chennai,"['Contract Law', 'Legal Research', 'Negotiation']",B.A.LLB,Law,2020
+Corporate Communication Manager,CorpComm,Coimbatore,"['Corporate Communications', 'PR', 'Social Media']",BBA,Communication,2022
+Quality Control Specialist,QualityWorks,Chennai,"['Quality Assurance', 'Process Improvement', 'Testing']",B.Tech,Mechanical,2021
+Financial Controller,FinWorks,Chennai,"['Financial Planning', 'Budgeting', 'Reporting']",MBA,Finance,2021
+Public Relations Executive,PRLink,Coimbatore,"['Media Relations', 'Crisis Management', 'Writing']",B.A,Communication,2021
+Assistant Project Manager,ProjAssist,Chennai,"['Project Management', 'Scheduling', 'Team Coordination']",MBA,Management,2020
+Customer Success Manager,SuccessPro,Coimbatore,"['Customer Success', 'Communication', 'Problem Solving']",BBA,Sales,2021
+Legal Officer,LawWorks,Chennai,"['Contract Drafting', 'Legal Research', 'Corporate Law']",B.A.LLB,Law,2022
+Business Analyst,DataTech,Chennai,"['SQL', 'Power BI', 'Market Analysis']",MBA,Business,2021
+Account Executive,AccountX,Coimbatore,"['Client Relations', 'Sales', 'Account Management']",BBA,Sales,2020
+Assistant Manager,OperationsPro,Chennai,"['Operations', 'Data Analysis', 'Team Coordination']",MBA,Operations,2021
+Video Production Specialist,VideoWorks,Coimbatore,"['Video Editing', 'Filming', 'Content Creation']",B.A,Film,2020
+Product Owner,TechLabs,Chennai,"['Product Management', 'Agile', 'Scrum']",MBA,Management,2022
+Medical Billing Specialist,HealthBilling,Chennai,"['Medical Billing', 'Healthcare', 'Coding']",B.Sc,Medical,2021
+Human Resources Assistant,PeoplePro,Coimbatore,"['Recruitment', 'HR Management', 'Employee Benefits']",BBA,HR,2020
+Security Consultant,SecureTech,Chennai,"['Cybersecurity', 'Risk Assessment', 'Vulnerability Testing']",B.Tech,CSE,2021
+Web Content Editor,ContentX,Chennai,"['Content Editing', 'SEO', 'Writing']",B.A,English,2020
+Digital Strategy Manager,StrategyPro,Coimbatore,"['Digital Marketing', 'Strategy', 'Social Media']",MBA,Marketing,2021
+Environmental Consultant,EnviroTech,Chennai,"['Environmental Policies', 'Sustainability', 'Data Analysis']",MBA,Environmental,2022
+Brand Executive,BrandWorks,Coimbatore,"['Brand Strategy', 'Consumer Behavior', 'Advertising']",MBA,Marketing,2021
+IT Support Specialist,TechMax,Chennai,"['IT Support', 'Troubleshooting', 'Customer Support']",B.Tech,IT,2020
+SEO Analyst,WebWorks,Coimbatore,"['SEO', 'Content Optimization', 'Keyword Research']",B.Com,Marketing,2021
+Operations Manager,OpsX,Chennai,"['Operations Management', 'Logistics', 'Supply Chain']",MBA,Operations,2022
+Junior Marketing Executive,AdWorks,Coimbatore,"['Marketing', 'Digital Strategy', 'Campaign Management']",BBA,Marketing,2020
+UX Designer,DesignPro,Chennai,"['UI/UX Design', 'Wireframing', 'Prototyping']",BFA,Design,2022
+Sales Support Specialist,SalesTech,Coimbatore,"['Sales Support', 'Customer Service', 'CRM']",B.Com,Sales,2020
+HR Assistant,PeopleMax,Chennai,"['Recruitment', 'HRMS', 'Employee Onboarding']",BBA,HR,2021
+Product Analyst,ProdX,Coimbatore,"['Product Analysis', 'Market Research', 'User Experience']",B.Tech,CS,2020
+Financial Analyst,FinExpert,Chennai,"['Financial Reporting', 'Budgeting', 'Financial Analysis']",MBA,Finance,2021
+Junior Software Developer,CodeWorks,Coimbatore,"['Java', 'SQL', 'Web Development']",B.Tech,CSE,2020
+Business Operations Analyst,OpsTech,Chennai,"['Business Analysis', 'Process Improvement', 'Operations']",BBA,Operations,2021
+Content Writer,ContentGen,Coimbatore,"['Content Writing', 'SEO', 'Copywriting']",B.A,English,2020
+Sales Executive,SalesForce,Chennai,"['Sales', 'Customer Acquisition', 'Market Research']",BBA,Sales,2022
+Marketing Research Associate,MarketX,Coimbatore,"['Market Research', 'Data Analysis', 'Consumer Insights']",MBA,Marketing,2021
+Legal Research Assistant,LawWorks,Chennai,"['Legal Research', 'Case Analysis', 'Documentation']",B.A.LLB,Law,2022
+Software Engineer,TechSoft,Coimbatore,"['Java', 'Python', 'Software Development']",B.Tech,CS,2021
+IT Project Coordinator,TechLink,Chennai,"['Project Management', 'Scheduling', 'Team Collaboration']",B.Tech,IT,2021
+Financial Consultant,FinPro,Coimbatore,"['Financial Consulting', 'Taxation', 'Investment Strategies']",B.Com,Finance,2020
+HR Consultant,PeopleX,Chennai,"['Recruitment', 'Employee Benefits', 'HR Policies']",MBA,HR,2020
+Business Strategy Analyst,StratX,Coimbatore,"['Business Strategy', 'Data Analysis', 'Competitive Analysis']",MBA,Business,2021
+Legal Advisor,LegalX,Chennai,"['Legal Consulting', 'Contract Negotiation', 'Corporate Law']",B.A.LLB,Law,2020
+System Administrator,NetWorks,Coimbatore,"['System Administration', 'Networking', 'Server Management']",B.Tech,IT,2020
+Digital Marketing Executive,AdGen,Chennai,"['SEO', 'Social Media Marketing', 'Google Ads']",BBA,Marketing,2021
+Project Manager,ProX,Coimbatore,"['Project Management', 'Team Coordination', 'Client Management']",MBA,Management,2022
+Product Manager,ProMan,Chennai,"['Product Management', 'Market Research', 'Roadmap Development']",MBA,Management,2022
+Corporate Lawyer,LawPro,Coimbatore,"['Corporate Law', 'Mergers & Acquisitions', 'Contract Law']",B.A.LLB,Law,2021
+Operations Analyst,OpsMax,Chennai,"['Operations', 'Process Improvement', 'Data Analysis']",BBA,Operations,2022
+Junior Data Scientist,DataTech,Coimbatore,"['Python', 'Machine Learning', 'Data Analysis']",B.Tech,CS,2021
+Frontend Developer,WebDevX,Chennai,"['JavaScript', 'React', 'HTML/CSS']",B.Tech,CSE,2020
+Backend Developer,BackendPro,Coimbatore,"['Python', 'Node.js', 'SQL']",B.Tech,CS,2021
+Sales Manager,SalesPro,Chennai,"['Sales Strategy', 'Customer Relationships', 'Market Analysis']",BBA,Sales,2021
+Mobile App Developer,AppWorks,Coimbatore,"['Flutter', 'Dart', 'Mobile Development']",B.Tech,IT,2021
+Data Analyst,DataWorks,Chennai,"['SQL', 'Excel', 'Data Visualization']",B.Tech,Statistics,2022
+Business Consultant,ConsultX,Coimbatore,"['Business Analysis', 'Process Optimization', 'Market Research']",MBA,Consulting,2021
+IT Support Engineer,TechFix,Chennai,"['Network Support', 'Troubleshooting', 'IT Solutions']",B.Tech,IT,2021
+Market Research Analyst,MarketGen,Coimbatore,"['Market Research', 'Consumer Insights', 'Data Analysis']",BBA,Marketing,2020
+Product Designer,DesignX,Chennai,"['Product Design', 'UX/UI', 'Prototyping']",BFA,Design,2021
+Operations Coordinator,OpsGen,Coimbatore,"['Supply Chain', 'Logistics', 'Operations Management']",BBA,Operations,2020
+Cloud Engineer,CloudWorks,Chennai,"['AWS', 'Azure', 'Cloud Computing']",B.Tech,IT,2021
+Sales Associate,SalesTech,Coimbatore,"['Sales', 'Lead Generation', 'Customer Relationship Management']",BBA,Sales,2020
+Digital Content Specialist,ContentX,Chennai,"['Content Marketing', 'SEO', 'Social Media']",BBA,Marketing,2022
+Junior Marketing Manager,MarketX,Coimbatore,"['Marketing', 'Brand Strategy', 'Campaigns']",MBA,Marketing,2022
+Business Development Manager,BizDev,Chennai,"['Business Development', 'Sales', 'Client Relations']",MBA,Sales,2021
+Legal Assistant,LegalMax,Coimbatore,"['Legal Research', 'Case Filing', 'Documentation']",B.A.LLB,Law,2020
+E-commerce Manager,ShopMax,Chennai,"['E-commerce', 'Product Management', 'Marketing Strategy']",MBA,Marketing,2022
+Cybersecurity Specialist,SecurePro,Coimbatore,"['Cybersecurity', 'Network Security', 'Risk Management']",B.Tech,CSE,2021
+Junior Software Tester,TestWorks,Chennai,"['Manual Testing', 'Automation Testing', 'QA']",B.Tech,CSE,2020
+Marketing Research Executive,MarketResearch,Coimbatore,"['Market Research', 'Data Analysis', 'Survey Design']",MBA,Marketing,2022
+Technical Support Specialist,SupportX,Chennai,"['Technical Support', 'Customer Service', 'Networking']",B.Tech,IT,2021
+Junior Web Developer,WebGen,Coimbatore,"['HTML', 'CSS', 'JavaScript']",B.Tech,CS,2021
+Business Process Analyst,ProcessMax,Chennai,"['Process Analysis', 'Data Reporting', 'Improvement Strategies']",MBA,Business,2022
+Finance Executive,FinWorks,Coimbatore,"['Financial Reporting', 'Taxation', 'Accounts Management']",B.Com,Finance,2021
+Data Engineer,DataX,Chennai,"['Python', 'SQL', 'Data Pipeline']",B.Tech,CS,2021
+Social Media Executive,SocialWorks,Coimbatore,"['Social Media Marketing', 'Content Strategy', 'Branding']",BBA,Marketing,2020
+Junior Graphic Designer,DesignX,Chennai,"['Graphic Design', 'Photoshop', 'Illustrator']",BFA,Design,2021
+Business Intelligence Developer,BIWorks,Coimbatore,"['SQL', 'Power BI', 'Data Modeling']",B.Tech,CS,2022

@@ -1,0 +1,155 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* Header and Intro Animations */
+h1, .navbar-brand {
+    font-size: 3em;
+    color: #007bff;
+    animation: fadeInZoom 1.5s ease forwards;
+    opacity: 0;
+}
+
+p {
+    font-size: 1.2em;
+    color: #495057;
+    opacity: 0;
+    animation: fadeIn 1.5s ease forwards 1s;
+}
+
+/* About Section Animations */
+.about-section {
+    opacity: 0;
+    animation: slideInUp 1.5s ease forwards 1.5s;
+}
+
+.about-section h3 {
+    color: #007bff;
+    font-size: 1.8em;
+    animation: fadeInLeft 1.5s ease forwards 1.5s;
+}
+
+.about-section p, .about-section li, .additional-content ol li {
+    color: #495057;
+    animation: fadeIn 1.5s ease forwards 2s;
+}
+.additional-content h3{
+    color: #007bff;
+    font-size: 1.8em;
+    animation: fadeInLeft 1.5s ease forwards 1.5s;  
+}
+.additional-content .additional-content h4 {
+    color: #343a40;
+    animation: fadeInRight 1.5s ease forwards 2.5s;
+}
+
+/* Conversation Section */
+.conversation {
+    max-height: 800px;
+    overflow-y: auto;
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    opacity: 0;
+    animation: fadeIn 1.5s ease forwards 1.5s;
+}
+
+.gif-size {
+    width: 300px;
+    height: 400px;
+}
+
+/* Job Section */
+.job {
+    max-height: 1600px;
+    overflow-y: auto;
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    opacity: 0;
+    animation: fadeIn 1.5s ease forwards 1.5s;
+}
+
+.conversation-entry {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    opacity: 0;
+    animation: fadeIn 1.5s ease forwards 1.5s;
+}
+
+/* Certification Recommendations Section */
+.certifications {
+    max-height: 400px;
+    overflow-y: auto;
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    opacity: 0;
+    animation: fadeIn 1.5s ease forwards 1.5s;
+}
+
+/* Individual Certification Entry */
+.certification-entry {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    opacity: 0;
+    animation: fadeIn 1.5s ease forwards 1.5s;
+}
+
+/* Fade-in animation for smooth transition */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+/* Alert Animation */
+.alert {
+    opacity: 0;
+    animation: fadeIn 1s ease forwards;
+}
+
+/* Keyframes for Animations */
+@keyframes fadeInZoom {
+    0% { opacity: 0; transform: scale(0.9); }
+    100% { opacity: 1; transform: scale(1); }
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@keyframes slideInUp {
+    0% { opacity: 0; transform: translateY(20px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeInLeft {
+    0% { opacity: 0; transform: translateX(-20px); }
+    100% { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes fadeInRight {
+    0% { opacity: 0; transform: translateX(20px); }
+    100% { opacity: 1; transform: translateX(0); }
+}
